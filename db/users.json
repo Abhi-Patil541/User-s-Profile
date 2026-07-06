@@ -1,0 +1,56 @@
+{
+  "data": [
+    {
+      "username": "abhi",
+      "name": "patil",
+      "email": "abhi@gmail.com",
+      "phone": "16195123",
+      "street": "btm",
+      "city": "goa",
+      "zipcode": "600032",
+      "company": "sap",
+      "id": "27uyKN52HAs"
+    },
+    {
+      "username": "chinnu",
+      "name": "jaggu",
+      "email": "jaggu@gmail.com",
+      "phone": "261",
+      "id": "C7N3spOgAe0"
+    },
+    {
+      "username": "schjc",
+      "name": "cj zxc",
+      "email": "",
+      "phone": "6548",
+      "id": "1CfrIZ4_ySU"
+    },
+    {
+      "username": "pvn",
+      "name": "doasi",
+      "email": "",
+      "phone": "",
+      "address": {
+        "street": "",
+        "city": "",
+        "zipcode": "",
+        "company": ""
+      },
+      "id": "cmmBYGuTgK8"
+    },
+    {
+      "username": "cbhjscboyu",
+      "name": "HVHU",
+      "email": "",
+      "phone": "",
+      "address": {
+        "street": "",
+        "city": "vgvg",
+        "zipcode": "556",
+        "company": ""
+      },
+      "id": "NnzFnq9yLd4"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
